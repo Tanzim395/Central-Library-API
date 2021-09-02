@@ -1,0 +1,17 @@
+/* additional style sheet */
+
+
+.displayHeight {
+    min-height: 18.5vh;
+    width: 100%;
+}
+
+
+.spin {
+    display: none;
+    height: 12rem;
+    width: 12rem;
+    margin-top: -3.5rem;
+}
+
+/* ending custom design */
